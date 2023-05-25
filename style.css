@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(94, 255, 0);
+    color: red;
+}
+.logo-img{
+    width: 10%;
+}
+
+.cabeçalho{
+    background-color: blue;
+    color: chartreuse;
+}
